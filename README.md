@@ -1,4 +1,4 @@
-# kinematic-trajectory-engine
+# Kinematic Trajectory Engine
 Numerical simulation of 2D projectile motion under quadratic air resistance.
 
 ## Overview / Value Proposition
