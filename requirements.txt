@@ -1,0 +1,9 @@
+# Core numerical library for vectorized operations and trajectory data arrays
+
+numpy>=1.21.0
+
+
+
+# Optional visualization library for rendering 2D flight path plots
+
+matplotlib>=3.5.0
