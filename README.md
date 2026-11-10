@@ -69,8 +69,8 @@ kinematic-trajectory-engine/
 
 ## Roadmap
 
-**[ ]Type Stubs & Strict Typing:** Introduce comprehensive type annotations and mypy configuration for strict static analysis compliance.
+**[ ] Type Stubs & Strict Typing:** Introduce comprehensive type annotations and mypy configuration for strict static analysis compliance.
 
-**[ ]Async Batch Simulations:** Implement asynchronous worker tasks using asyncio to process multiple trajectory parameter sets concurrently.
+**[ ] Async Batch Simulations:** Implement asynchronous worker tasks using asyncio to process multiple trajectory parameter sets concurrently.
 
-**[ ]Structured Logging:** Replace terminal print statements with Python's standard logging module configured for JSON output formatting.
+**[ ] Structured Logging:** Replace terminal print statements with Python's standard logging module configured for JSON output formatting.
